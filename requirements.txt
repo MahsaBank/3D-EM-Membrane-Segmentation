@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+zarr
+lsds
+gunpowder
+funlib.geometry
+matplotlib
+git+https://github.com/funkelab/funlib.learn.torch.git
+tensorboard
+tensorboardX
+cython
+scikit-learn
+numpy<2.0.0
+git+https://github.com/funkey/waterz@8ccd0b308fed604d143577f128420da83ff444da#egg=waterz
+
